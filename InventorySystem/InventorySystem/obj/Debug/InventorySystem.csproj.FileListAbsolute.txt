@@ -1,0 +1,94 @@
+C:\Users\Bedir\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.MainScreen.resources
+C:\Users\Bedir\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+C:\Users\Bedir\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.GenerateResource.Cache
+C:\Users\Bedir\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\Bedir\source\repos\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+C:\Users\Bedir\source\repos\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe
+C:\Users\Bedir\source\repos\InventorySystem\InventorySystem\bin\Debug\InventorySystem.pdb
+C:\Users\Bedir\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe
+C:\Users\Bedir\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb
+C:\Users\Bedir\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csprojResolveAssemblyReference.cache
+C:\Users\Bedir\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.AddPartForm.resources
+C:\Users\Bedir\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.AddProductForm.resources
+C:\Users\Bedir\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.ModifyPartForm.resources
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem\InventorySystem\bin\Debug\InventorySystem.pdb
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csprojResolveAssemblyReference.cache
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem\InventorySystem\obj\Debug\InventorySystem.AddPartForm.resources
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem\InventorySystem\obj\Debug\InventorySystem.AddProductForm.resources
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem\InventorySystem\obj\Debug\InventorySystem.MainScreen.resources
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem\InventorySystem\obj\Debug\InventorySystem.ModifyPartForm.resources
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.GenerateResource.Cache
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb
+C:\Users\faiza\Downloads\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+C:\Users\faiza\Downloads\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe
+C:\Users\faiza\Downloads\InventorySystem\InventorySystem\bin\Debug\InventorySystem.pdb
+C:\Users\faiza\Downloads\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csprojAssemblyReference.cache
+C:\Users\faiza\Downloads\InventorySystem\InventorySystem\obj\Debug\InventorySystem.AddPartForm.resources
+C:\Users\faiza\Downloads\InventorySystem\InventorySystem\obj\Debug\InventorySystem.AddProductForm.resources
+C:\Users\faiza\Downloads\InventorySystem\InventorySystem\obj\Debug\InventorySystem.MainScreen.resources
+C:\Users\faiza\Downloads\InventorySystem\InventorySystem\obj\Debug\InventorySystem.ModifyPartForm.resources
+C:\Users\faiza\Downloads\InventorySystem\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+C:\Users\faiza\Downloads\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.GenerateResource.cache
+C:\Users\faiza\Downloads\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\faiza\Downloads\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe
+C:\Users\faiza\Downloads\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem(1)\InventorySystem\bin\Debug\InventorySystem.exe.config
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem(1)\InventorySystem\bin\Debug\InventorySystem.exe
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem(1)\InventorySystem\bin\Debug\InventorySystem.pdb
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem(1)\InventorySystem\obj\Debug\InventorySystem.csprojResolveAssemblyReference.cache
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem(1)\InventorySystem\obj\Debug\InventorySystem.AddPartForm.resources
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem(1)\InventorySystem\obj\Debug\InventorySystem.AddProductForm.resources
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem(1)\InventorySystem\obj\Debug\InventorySystem.MainScreen.resources
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem(1)\InventorySystem\obj\Debug\InventorySystem.ModifyPartForm.resources
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem(1)\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem(1)\InventorySystem\obj\Debug\InventorySystem.csproj.GenerateResource.Cache
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem(1)\InventorySystem\obj\Debug\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem(1)\InventorySystem\obj\Debug\InventorySystem.exe
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem(1)\InventorySystem\obj\Debug\InventorySystem.pdb
+C:\Users\hi\Downloads\InventorySystem(1)\InventorySystem\bin\Debug\InventorySystem.exe.config
+C:\Users\hi\Downloads\InventorySystem(1)\InventorySystem\bin\Debug\InventorySystem.exe
+C:\Users\hi\Downloads\InventorySystem(1)\InventorySystem\bin\Debug\InventorySystem.pdb
+C:\Users\hi\Downloads\InventorySystem(1)\InventorySystem\obj\Debug\InventorySystem.csprojAssemblyReference.cache
+C:\Users\hi\Downloads\InventorySystem(1)\InventorySystem\obj\Debug\InventorySystem.AddPartForm.resources
+C:\Users\hi\Downloads\InventorySystem(1)\InventorySystem\obj\Debug\InventorySystem.AddProductForm.resources
+C:\Users\hi\Downloads\InventorySystem(1)\InventorySystem\obj\Debug\InventorySystem.MainScreen.resources
+C:\Users\hi\Downloads\InventorySystem(1)\InventorySystem\obj\Debug\InventorySystem.ModifyPartForm.resources
+C:\Users\hi\Downloads\InventorySystem(1)\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+C:\Users\hi\Downloads\InventorySystem(1)\InventorySystem\obj\Debug\InventorySystem.csproj.GenerateResource.cache
+C:\Users\hi\Downloads\InventorySystem(1)\InventorySystem\obj\Debug\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\hi\Downloads\InventorySystem(1)\InventorySystem\obj\Debug\InventorySystem.exe
+C:\Users\hi\Downloads\InventorySystem(1)\InventorySystem\obj\Debug\InventorySystem.pdb
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem(2)\InventorySystem\bin\Debug\InventorySystem.exe.config
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem(2)\InventorySystem\bin\Debug\InventorySystem.exe
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem(2)\InventorySystem\bin\Debug\InventorySystem.pdb
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem(2)\InventorySystem\obj\Debug\InventorySystem.csprojResolveAssemblyReference.cache
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem(2)\InventorySystem\obj\Debug\InventorySystem.AddPartForm.resources
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem(2)\InventorySystem\obj\Debug\InventorySystem.AddProductForm.resources
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem(2)\InventorySystem\obj\Debug\InventorySystem.MainScreen.resources
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem(2)\InventorySystem\obj\Debug\InventorySystem.ModifyPartForm.resources
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem(2)\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem(2)\InventorySystem\obj\Debug\InventorySystem.csproj.GenerateResource.Cache
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem(2)\InventorySystem\obj\Debug\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem(2)\InventorySystem\obj\Debug\InventorySystem.exe
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem(2)\InventorySystem\obj\Debug\InventorySystem.pdb
+C:\Users\hi\OneDrive\School\Software 1 C968\InventorySystem(2)\InventorySystem\bin\Debug\InventorySystem.exe.config
+C:\Users\hi\OneDrive\School\Software 1 C968\InventorySystem(2)\InventorySystem\bin\Debug\InventorySystem.exe
+C:\Users\hi\OneDrive\School\Software 1 C968\InventorySystem(2)\InventorySystem\bin\Debug\InventorySystem.pdb
+C:\Users\hi\OneDrive\School\Software 1 C968\InventorySystem(2)\InventorySystem\obj\Debug\InventorySystem.csprojAssemblyReference.cache
+C:\Users\hi\OneDrive\School\Software 1 C968\InventorySystem(2)\InventorySystem\obj\Debug\InventorySystem.AddPartForm.resources
+C:\Users\hi\OneDrive\School\Software 1 C968\InventorySystem(2)\InventorySystem\obj\Debug\InventorySystem.AddProductForm.resources
+C:\Users\hi\OneDrive\School\Software 1 C968\InventorySystem(2)\InventorySystem\obj\Debug\InventorySystem.MainScreen.resources
+C:\Users\hi\OneDrive\School\Software 1 C968\InventorySystem(2)\InventorySystem\obj\Debug\InventorySystem.ModifyPartForm.resources
+C:\Users\hi\OneDrive\School\Software 1 C968\InventorySystem(2)\InventorySystem\obj\Debug\InventorySystem.Properties.Resources.resources
+C:\Users\hi\OneDrive\School\Software 1 C968\InventorySystem(2)\InventorySystem\obj\Debug\InventorySystem.csproj.GenerateResource.cache
+C:\Users\hi\OneDrive\School\Software 1 C968\InventorySystem(2)\InventorySystem\obj\Debug\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\hi\OneDrive\School\Software 1 C968\InventorySystem(2)\InventorySystem\obj\Debug\InventorySystem.exe
+C:\Users\hi\OneDrive\School\Software 1 C968\InventorySystem(2)\InventorySystem\obj\Debug\InventorySystem.pdb
+C:\Users\hi\OneDrive\School\Software 1 C968\InventorySystem(2)\InventorySystem\obj\Debug\InventorySystem.ModifyProductForm.resources
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem(2)\InventorySystem\obj\Debug\InventorySystem.ModifyProductForm.resources
+C:\Users\Bedir\OneDrive\School\Software 1 C968\InventorySystem\InventorySystem\obj\Debug\InventorySystem.ModifyProductForm.resources
